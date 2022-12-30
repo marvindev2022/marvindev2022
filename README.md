@@ -1,9 +1,11 @@
-
-
-
  # Olá! Seja bem-vindo(a) ao meu GitHub!
+ 
 
-<div style=height:30px></div>
+ Sou Marcus Roza, tenho 32 anos estou em transição de carreira como desenvolvedor de software Full Stack. Amante de ficção-científica, a tecnologia sempre me chamou a atenção e hoje poder aprender todos os dias como solucionar problemas com a Lógica de programação e desenvolver minhas habilidades com **Javascript** | **HTML**|  **CSS**, manipulando eventos da Dom, uso de tags Semânticas, consumindo e criando apis aplicando padrão Rest, conhecimentos em Node.js, Git, GitHub, React.js 
+e PostgreSql.
+
+
+###
 <div align="center">
   <a href="https://github.com/marvindev2022">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marvindev2022&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&custom_title=Marcus%20Roza%20%27s%20GitHub%20Stats"/>
@@ -13,20 +15,16 @@
   ![](https://github.com/marvindev2022/marvindev2022/blob/output/github-contribution-grid-snake.svg)
 
 # Tecnologias e Ferramentas
-<div style=height:30px></div>
 
 ## Linguagem de programação
-<div style=height:30px align="center"></div>
 
 <div>
             <img  height="80em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
 </div>
-<div style=height:30px></div>
 
 
 ## Softwares
-<div style=height:30px></div>
 
 <div>
             <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -35,10 +33,8 @@
             <img height="90em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
             <img height="75em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 </div>
-<div style=height:30px ></div>
 
 ## Estou aprendendo
-<div style=height:30px ></div>
 
 <div>
             <img height="80em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
