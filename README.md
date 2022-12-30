@@ -1,5 +1,9 @@
 
-<div align="center" style=font-size:32px> Olá! Seja bem-vindo(a) ao meu GitHub!</div>
+
+
+ # Olá! Seja bem-vindo(a) ao meu GitHub!
+
+<div style=height:30px></div>
 <div align="center">
   <a href="https://github.com/marvindev2022">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marvindev2022&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&custom_title=Marcus%20Roza%20%27s%20GitHub%20Stats"/>
@@ -8,8 +12,8 @@
 
   ![](https://github.com/marvindev2022/marvindev2022/blob/output/github-contribution-grid-snake.svg)
 
-
-<div style=height:30px align="center"></div>
+# Tecnologias e Ferramentas
+<div style=height:30px></div>
 
 ## Linguagem de programação
 <div style=height:30px align="center"></div>
@@ -18,11 +22,11 @@
             <img  height="80em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
 </div>
-<div style=height:30px align="center"></div>
+<div style=height:30px></div>
 
 
 ## Softwares
-<div style=height:30px align="center"></div>
+<div style=height:30px></div>
 
 <div>
             <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -31,16 +35,16 @@
             <img height="90em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
             <img height="75em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 </div>
-<div style=height:30px align="center"></div>
+<div style=height:30px ></div>
 
 ## Estou aprendendo
-<div style=height:30px align="center"></div>
+<div style=height:30px ></div>
 
 <div>
             <img height="80em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
             <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div>
-<div style=height:30px align="center"></div>
+<div style=height:30px ></div>
   
   
 ## Contatos
