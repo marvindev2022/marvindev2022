@@ -40,7 +40,14 @@ e PostgreSql.
             <img height="80em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
             <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div>
-<div style=height:30px ></div>
+
+ ## Algums de minhas estatísticas 
+ 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marvindev2022&theme=tokyonight)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marvindev2022&theme=tokyonight)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marvindev2022&theme=tokyonight)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marvindev2022&theme=tokyonight)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marvindev2022&theme=tokyonight&utcOffset=8)
   
   
 ## Contatos
