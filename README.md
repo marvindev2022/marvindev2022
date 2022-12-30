@@ -41,7 +41,7 @@ e PostgreSql.
             <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div>
 
- ## Algums de minhas estatísticas 
+ ## Estatísticas 
  
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marvindev2022&theme=tokyonight)
  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marvindev2022&theme=tokyonight)
