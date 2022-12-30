@@ -8,6 +8,40 @@
 
   ![](https://github.com/marvindev2022/marvindev2022/blob/output/github-contribution-grid-snake.svg)
 
+
+<div style=height:30px align="center"></div>
+
+## Linguagem de programação
+<div style=height:30px align="center"></div>
+
+<div>
+            <img  height="80em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
+</div>
+<div style=height:30px align="center"></div>
+
+
+## Softwares
+<div style=height:30px align="center"></div>
+
+<div>
+            <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+            <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+            <img height="78em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+            <img height="90em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+            <img height="75em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+</div>
+<div style=height:30px align="center"></div>
+
+## Estou aprendendo
+<div style=height:30px align="center"></div>
+
+<div>
+            <img height="80em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+            <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+</div>
+<div style=height:30px align="center"></div>
+  
   
 ## Contatos
 
