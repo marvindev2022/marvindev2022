@@ -1,4 +1,4 @@
- # Olá! Seja bem-vindo(a) ao meu GitHub!
+ # Olá! Seja bem-vindo(a) ao meu GitHub! 👨🏻‍💻
  
 
  Sou Marcus Roza, tenho 32 anos estou em transição de carreira como desenvolvedor de software Full Stack. Amante de ficção-científica, a tecnologia sempre me chamou a atenção e hoje poder aprender todos os dias como solucionar problemas com a Lógica de programação e desenvolver minhas habilidades com **Javascript** | **HTML**|  **CSS**, manipulando eventos da Dom, uso de tags Semânticas, consumindo e criando apis aplicando padrão Rest, conhecimentos em Node.js, Git, GitHub, React.js 
