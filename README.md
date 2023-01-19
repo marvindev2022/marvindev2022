@@ -8,18 +8,20 @@ e PostgreSql.
 ###
 <div align="center">
   <a href="https://github.com/marvindev2022">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marvindev2022&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&custom_title=Marcus%20Roza%20%27s%20GitHub%20Stats"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marvindev2022&layout=compact&langs_count=7&theme=nightowl"/>
+  <img width="450em" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marvindev2022&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&custom_title=Marcus%20Roza%20%27s%20GitHub%20Stats"/>
+  <img width="450em" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marvindev2022&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 
   ![](https://github.com/marvindev2022/marvindev2022/blob/output/github-contribution-grid-snake.svg)
 
-# Tecnologias e Ferramentas
 
-## Linguagem de programação
+
+## Vanilla js
 
 <div>
             <img  height="80em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+            <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+            <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
 </div>
 
@@ -27,8 +29,6 @@ e PostgreSql.
 ## Softwares
 
 <div>
-            <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-            <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
             <img height="78em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
             <img height="90em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
             <img height="75em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
@@ -50,7 +50,7 @@ e PostgreSql.
  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marvindev2022&theme=tokyonight&utcOffset=8)
   
   
-## Contatos
+## Contato
 
 <div>
 <a href="https://instagram.com/marcus.roza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
