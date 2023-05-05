@@ -14,6 +14,7 @@ Meu objetivo é continuar aprendendo e aprimorando minhas habilidades para desen
 
 
 🎓 Formação pela Cubos Academy  [Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2)
+
 🎓 Eu estudo pela Ampli [Engenharia de software](https://www.ampli.com.br/)
 
 🔎 Também sou curioso sobre TypeScript e Arquitetura de codigo
