@@ -3,7 +3,7 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor Full Stack do Rio de Janeiro, com 32 anos de idade e pai de um menino autista que é minha motivação nestá transição de carreira. Aprendi a programar em JavaScript e atualmente estou expandindo meus conhecimentos em TypeScript.
+💻 Eu sou um desenvolvedor de Software Full Stack do Rio de Janeiro, com 33 anos de idade e pai de um menino autista que é minha motivação nestá transição de carreira. Aprendi a programar em JavaScript e atualmente estou expandindo meus conhecimentos em TypeScript.
 
 Meus sólidos conhecimentos em Node.js, React e PostgreSQL me permitem desenvolver soluções robustas e escaláveis. Além disso, tenho experiência com Vanilla.js e adoro resolver problemas de lógica de programação.
 
