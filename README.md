@@ -65,7 +65,7 @@ Meu objetivo é continuar aprendendo e aprimorando minhas habilidades para desen
 <div>
 <a href="https://github.com/marvindev2022">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvindev2022&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marvindev2022&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marvindev2022&show_icons=true&theme=dracula&hide=stars&count_private=true&include_all_commits=true&custom_title=Estat%C3%ADsticas%20do%20GitHub"/>
 </div>
 
 ### Entre em contato comigo! 📭
