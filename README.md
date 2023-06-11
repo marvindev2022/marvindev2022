@@ -2,17 +2,24 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor de Software Full Stack do Rio de Janeiro, com 33 anos de idade e pai de um menino autista que é minha motivação nestá transição de carreira. Aprendi a programar em JavaScript e atualmente estou expandindo meus conhecimentos em TypeScript.
+💻 
+Sou um desenvolvedor de software Full Stack com experiência sólida em tecnologias modernas. Minha paixão é criar soluções inovadoras e robustas para desafios complexos.
 
-Meus sólidos conhecimentos em Node.js, React e PostgreSQL me permitem desenvolver soluções robustas e escaláveis. Além disso, tenho experiência com Vanilla.js e adoro resolver problemas de lógica de programação.
+Tenho amplo conhecimento e experiência em Node.js, React e PostgreSQL, o que me permite desenvolver aplicações escaláveis e eficientes. Estou aprimorando meu conhecimento em TypeScript, que utilizo para garantir um código limpo, seguro e de fácil manutenção.
 
-Antes de ingressar no mundo da tecnologia, trabalhei na indústria automotiva, o que me proporcionou uma forte resiliência, pensamento analítico e habilidades em análise de prevenção e correção. Além disso, adquiri soft skills valiosas ao longo de minha carreira como gerente de fast food e vendedor.
+Além disso, possuo habilidades significativas em lógica de programação e resolução de problemas. Tenho proficiência no uso de Git e GitHub para controle de versão e colaboração em equipe.
 
-Meu objetivo é continuar aprendendo e aprimorando minhas habilidades para desenvolver soluções cada vez mais eficientes e impactantes.
+Trabalhei em diversos projetos desafiadores, nos quais pude aplicar padrões de projeto e arquitetura de software para criar soluções de alta qualidade. Minha experiência inclui a criação e o consumo de APIs RESTful, a manipulação avançada de eventos com a DOM e o desenvolvimento de interfaces de usuário modernas e responsivas.
+
+Estou constantemente buscando aprimorar minhas habilidades técnicas e acompanhar as últimas tendências e melhores práticas do mercado. Sou apaixonado por aprender novas tecnologias e estou sempre aberto a novos desafios e oportunidades.
+
+Tenho um compromisso forte com a qualidade do código e a entrega de resultados excepcionais. Sou um comunicador eficaz e um colaborador proativo em equipes multidisciplinares.
+
+Se você está em busca de um desenvolvedor com habilidades técnicas sólidas, apaixonado por inovação e comprometido com o sucesso do projeto, estou pronto para contribuir e enfrentar novos desafios.
+
+Fique à vontade para entrar em contato comigo para discutir possíveis colaborações ou oportunidades de trabalho. Vamos trabalhar juntos para criar soluções incríveis!
 
 🎓 Certificação pela Cubos Academy  [Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2)
-
-🎓 Eu estudo pela Ampli [Engenharia de software](https://www.ampli.com.br/)
 
 🔎 Também sou curioso sobre TypeScript e Arquitetura de codigo
 
@@ -24,12 +31,11 @@ Meu objetivo é continuar aprendendo e aprimorando minhas habilidades para desen
 
 **Tecnologias e Ferramentas**
 
-
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -47,9 +53,6 @@ Meu objetivo é continuar aprendendo e aprimorando minhas habilidades para desen
 #### Biblioteca:
 
   ![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-  ![PropTypes](https://img.shields.io/badge/PropTypes-%230D99C6?style=for-the-badge&logo=react&logoColor=white)
-  ![Hooks](https://img.shields.io/badge/-React%20Hooks-663399?style=for-the-badge&logo=react&logoColor=white)
-  ![D3](https://img.shields.io/badge/D3-%23F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
   ![Prisma](https://img.shields.io/badge/prisma-%230E1316.svg?style=for-the-badge&logo=prisma&logoColor=white)
   ![Zod](https://img.shields.io/badge/zod-%23008FFF.svg?style=for-the-badge&logo=zod&logoColor=white)
 
