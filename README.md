@@ -39,19 +39,23 @@ Meu objetivo é continuar aprendendo e aprimorando minhas habilidades para desen
 
 ### Eu estou estudando... 🧩
 
+#### Framework:
 
+  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PropTypes](https://img.shields.io/badge/PropTypes-%230D99C6?style=for-the-badge&logo=react&logoColor=white)
-![Hooks](https://img.shields.io/badge/-React%20Hooks-663399?style=for-the-badge&logo=react&logoColor=white)
-![D3](https://img.shields.io/badge/D3-%23F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/prisma-%230E1316.svg?style=for-the-badge&logo=prisma&logoColor=white)
-![Zod](https://img.shields.io/badge/zod-%23008FFF.svg?style=for-the-badge&logo=zod&logoColor=white)
+#### Biblioteca:
 
+  ![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+  ![PropTypes](https://img.shields.io/badge/PropTypes-%230D99C6?style=for-the-badge&logo=react&logoColor=white)
+  ![Hooks](https://img.shields.io/badge/-React%20Hooks-663399?style=for-the-badge&logo=react&logoColor=white)
+  ![D3](https://img.shields.io/badge/D3-%23F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
+  ![Prisma](https://img.shields.io/badge/prisma-%230E1316.svg?style=for-the-badge&logo=prisma&logoColor=white)
+  ![Zod](https://img.shields.io/badge/zod-%23008FFF.svg?style=for-the-badge&logo=zod&logoColor=white)
 
+#### Linguagem:
+
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 ### Cursos realizados 🤓
