@@ -47,14 +47,7 @@ Fique à vontade para entrar em contato comigo para discutir possíveis colabora
 
 #### Framework:
 
-  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
   ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-
-#### Biblioteca:
-
-  ![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-  ![Prisma](https://img.shields.io/badge/prisma-%230E1316.svg?style=for-the-badge&logo=prisma&logoColor=white)
-  ![Zod](https://img.shields.io/badge/zod-%23008FFF.svg?style=for-the-badge&logo=zod&logoColor=white)
 
 #### Linguagem:
 
