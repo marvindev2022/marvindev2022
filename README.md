@@ -83,5 +83,5 @@ Fique à vontade para entrar em contato comigo para discutir possíveis colabora
 ### GitHub Stats ⚡
 <div>
 <a href="https://github.com/marvindev2022">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvindev2022&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvindev2022&layout=compact&langs_count=10&theme=dracula"/>
 <img height="180
