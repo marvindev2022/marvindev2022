@@ -81,7 +81,17 @@ Fique à vontade para entrar em contato comigo para discutir possíveis colabora
 
 
 ### GitHub Stats ⚡
+
 <div>
-<a href="https://github.com/marvindev2022">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvindev2022&layout=compact&langs_count=10&theme=dracula"/>
-<img height="180
+  <a href="https://github.com/marvindev2022">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marvindev2022&show_icons=true&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvindev2022&layout=compact&langs_count=10&theme=dracula"/>
+  </a>
+</div>
+
+### Contribuições⚡
+<div>
+  <a href="https://github.com/marvindev2022">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marvindev2022&theme=dracula&hide_border=true&fire=4fff67"/>
+  </a>
+</div>
