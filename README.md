@@ -2,22 +2,20 @@
 
 ### Sobre mim
 
-💻 
-Sou um desenvolvedor de software Full Stack com experiência sólida em tecnologias modernas. Minha paixão é criar soluções inovadoras e robustas para desafios complexos.
+Olá, seja bem-vindo(a)!
 
-Tenho amplo conhecimento e experiência em Node.js, React e PostgreSQL, o que me permite desenvolver aplicações escaláveis e eficientes. Estou aprimorando meu conhecimento em TypeScript, que utilizo para garantir um código limpo, seguro e de fácil manutenção.
+Sou um desenvolvedor de software Full Stack apaixonado por criar soluções inovadoras e robustas para desafios complexos. Tenho ampla experiência em tecnologias modernas, como Node.js, React e PostgreSQL, que me permitem desenvolver aplicações escaláveis e eficientes. Estou sempre buscando aprimorar minhas habilidades e conhecimentos, especialmente em TypeScript e Arquitetura de código, para garantir a entrega de um código limpo, seguro e de fácil manutenção.
 
-Além disso, possuo habilidades significativas em lógica de programação e resolução de problemas. Tenho proficiência no uso de Git e GitHub para controle de versão e colaboração em equipe.
+Ao longo do meu desenvolvimento, trabalhei em diversos projetos desafiadores, aplicando padrões de projeto e arquitetura de software para criar soluções de alta qualidade. Minha experiência inclui a criação e o consumo de APIs RESTful, manipulação avançada de eventos com a DOM e o desenvolvimento de interfaces de usuário modernas e responsivas. Sou um comunicador eficaz e um colaborador proativo em equipes multidisciplinares.
 
-Trabalhei em diversos projetos desafiadores, nos quais pude aplicar padrões de projeto e arquitetura de software para criar soluções de alta qualidade. Minha experiência inclui a criação e o consumo de APIs RESTful, a manipulação avançada de eventos com a DOM e o desenvolvimento de interfaces de usuário modernas e responsivas.
+Além do meu crescimento como desenvolvedor, também me dedico a aprimorar meus conhecimentos em paradigmas de programação, como Programação Orientada a Objetos (POO), Arquitetura Limpa, Test-Driven Development (TDD) e Domain-Driven Design (DDD). Acredito que esses conceitos são fundamentais para criar soluções de software bem estruturadas e de alta qualidade.
 
-Estou constantemente buscando aprimorar minhas habilidades técnicas e acompanhar as últimas tendências e melhores práticas do mercado. Sou apaixonado por aprender novas tecnologias e estou sempre aberto a novos desafios e oportunidades.
-
-Tenho um compromisso forte com a qualidade do código e a entrega de resultados excepcionais. Sou um comunicador eficaz e um colaborador proativo em equipes multidisciplinares.
+Tenho um forte compromisso com a qualidade do código e a entrega de resultados excepcionais. Além disso, sou um comunicador eficaz e um colaborador proativo em equipes multidisciplinares.
 
 Se você está em busca de um desenvolvedor com habilidades técnicas sólidas, apaixonado por inovação e comprometido com o sucesso do projeto, estou pronto para contribuir e enfrentar novos desafios.
 
-Fique à vontade para entrar em contato comigo para discutir possíveis colaborações ou oportunidades de trabalho. Vamos trabalhar juntos para criar soluções incríveis!
+Sinta-se à vontade para entrar em contato comigo para discutir possíveis colaborações ou oportunidades de trabalho. Vamos trabalhar juntos para criar soluções incríveis!
+
 
 🎓 Certificação pela Cubos Academy  [Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2)
 
@@ -45,14 +43,19 @@ Fique à vontade para entrar em contato comigo para discutir possíveis colabora
 
 ### Eu estou estudando... 🧩
 
-#### Framework:
+- Paradigma de programação:
+- Programação Orientada a Objetos (**POO**)
+- Arquitetura Limpa
+- Test-Driven Development (**TDD**)
+- Domain-Driven Design (**DDD**)
 
-  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+### Frameworks e bibliotecas:
 
-#### Linguagem:
-
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
+- [NestJS](https://nestjs.com/): ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+- [TypeScript](https://www.typescriptlang.org/): ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- [Material-UI (Mui)](https://mui.com/): ![Material-UI](https://img.shields.io/badge/material--ui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+- [GSAP (GreenSock Animation Platform)](https://greensock.com/gsap/): ![GSAP](https://img.shields.io/badge/gsap-%2300C48C.svg?style=for-the-badge&logo=greensock&logoColor=white)
+- [D3.js](https://d3js.org/): ![D3.js](https://img.shields.io/badge/d3.js-%23F9A03C.svg?style=for-the-badge&logo=d3.js&logoColor=white)
 
 ### Cursos realizados 🤓
 
