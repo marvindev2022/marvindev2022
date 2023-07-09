@@ -51,11 +51,10 @@ Sinta-se à vontade para entrar em contato comigo para discutir possíveis colab
 
 ### Frameworks e bibliotecas:
 
-- [NestJS](https://nestjs.com/): ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-- [TypeScript](https://www.typescriptlang.org/): ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-- [Material-UI (Mui)](https://mui.com/): ![Material-UI](https://img.shields.io/badge/material--ui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-- [GSAP (GreenSock Animation Platform)](https://greensock.com/gsap/): ![GSAP](https://img.shields.io/badge/gsap-%2300C48C.svg?style=for-the-badge&logo=greensock&logoColor=white)
-- [D3.js](https://d3js.org/): ![D3.js](https://img.shields.io/badge/d3.js-%23F9A03C.svg?style=for-the-badge&logo=d3.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Material-UI](https://img.shields.io/badge/material--ui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+![D3.js](https://img.shields.io/badge/d3.js-%23F9A03C.svg?style=for-the-badge&logo=d3.js&logoColor=white)
 
 ### Cursos realizados 🤓
 
