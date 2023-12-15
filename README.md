@@ -23,8 +23,6 @@ Sinta-se à vontade para entrar em contato comigo para discutir possíveis colab
 
 ✒️ Eu gosto de no meu tempo livre ficar com a família, assistir doramas e fazer pizza com meu filho;
 
-📚 Lendo: Clean Code - Robert C. Martin
-
 ### Eu já trabalhei com... 🔧
 
 **Tecnologias e Ferramentas**
