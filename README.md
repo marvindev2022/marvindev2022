@@ -46,6 +46,7 @@ Sinta-se à vontade para entrar em contato comigo para discutir possíveis colab
 - Arquitetura Limpa
 - Test-Driven Development (**TDD**)
 - Domain-Driven Design (**DDD**)
+- Cypress
 
 ### Tecnologias e Ferramentas que Estou Explorando 🛠️
 
