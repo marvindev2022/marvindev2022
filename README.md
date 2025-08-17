@@ -2,6 +2,8 @@
 
 Sou Engenheiro de Frontend com foco em **qualidade de software** e **experiência do usuário**. Atuo com forte ênfase em **testes automatizados** (E2E, unitários) e estratégias de **Server Side Rendering (SSR)** para garantir performance, segurança e acessibilidade em aplicações web.
 
+![Metrics](/github-metrics.svg)
+
 ---
 
 ## 🚀 Minhas Especialidades
