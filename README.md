@@ -18,10 +18,14 @@ Atualmente na [Clarke Energy](https://clarke.com.br) — marketplace de energia 
 
 ## Projetos próprios
 
-| Projeto | O que é |
-|---|---|
-| [graphify](https://github.com/marvindev2022/graphify) | Transforma qualquer input (código, docs, PDFs) em grafo de conhecimento navegável via LLM |
-| [engenharia-de-software-com-ia-aplicada](https://github.com/marvindev2022/engenharia-de-software-com-ia-aplicada) | RAG local + MCP servers + workflows multi-agente para times de engenharia |
+| Projeto | O que é | Stack |
+|---|---|---|
+| [graphify](https://github.com/marvindev2022/graphify) | Transforma qualquer input (código, docs, PDFs) em grafo de conhecimento navegável via LLM | Python · Claude · MCP |
+| [TreinoZap](https://github.com/marvindev2022/gym) | SaaS para personal trainers — gestão de alunos, treinos e cobranças via WhatsApp | React · Flask · Supabase · Evolution API |
+| [Oficina do Felp](https://github.com/marvindev2022/felpdiesel) | Sistema completo para oficina mecânica — OS, portal do cliente e chat em tempo real | React · Vite · Supabase Realtime |
+| Ducabong / Supermaxitorque | Fork da solução de oficina para cliente Ducabong — OS, avarias, portal e chat | React · Vite · Supabase |
+| PDV Auto-Peças | Ponto de venda para auto-peças — catálogo, controle de estoque e caixa | React · Vite · Supabase |
+| [engenharia-de-software-com-ia-aplicada](https://github.com/marvindev2022/engenharia-de-software-com-ia-aplicada) | RAG local + MCP servers + workflows multi-agente para times de engenharia | Claude Code · pgvector · Ollama |
 
 ---
 
