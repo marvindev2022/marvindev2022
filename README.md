@@ -12,7 +12,7 @@ Do problema ao código em produção: arquitetura, backend, frontend, deploy e m
 ## O que faço hoje
 
 - **Full-stack** em monorepo Python + TypeScript — FastAPI, Flask, React 18, GraphQL (Apollo Federation v2)
-- **IA aplicada** — OCR com LLM via Tool Use (10/10 faturas corretas em benchmark interno, vs 5/10 com outro modelo), RAG com pgvector, MCP servers, workflows multi-agente com verificação adversarial
+- **IA aplicada** — OCR com LLM via Tool Use (10/10 layouts de fatura diferentes corretos em benchmark interno, vs 5/10 com outro modelo), RAG com pgvector, MCP servers, workflows multi-agente com verificação adversarial
 - **Infra de produto** — Kubernetes (GKE), Celery, Docker, Cloud SQL, Redis
 - **Design system** — componentes React reutilizáveis, publicados em pacote npm
 
