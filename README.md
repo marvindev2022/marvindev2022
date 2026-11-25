@@ -2,17 +2,19 @@
 
 **Engenheiro de Software · Full-Stack · AI Tooling**
 
-Construo produtos e infraestrutura que fazem times de engenharia entregarem mais rápido.  
-Atualmente na [Clarke Energy](https://clarke.com.br) — marketplace de energia no mercado livre.
+Construo produtos e infraestrutura de IA aplicada que fazem times de engenharia entregarem mais rápido.  
+Do problema ao código em produção: arquitetura, backend, frontend, deploy e monitoração.
+
+🌐 [Portfólio](https://mvr-portfolio.netlify.app) · 💼 [LinkedIn](https://www.linkedin.com/in/marcus-roza/)
 
 ---
 
 ## O que faço hoje
 
 - **Full-stack** em monorepo Python + TypeScript — FastAPI, Flask, React 18, GraphQL (Apollo Federation v2)
-- **AI tooling** — RAG com pgvector, MCP servers, workflows multi-agente com verificação adversarial
+- **IA aplicada** — OCR com LLM via Tool Use (100% de assertividade vs 50% do modelo anterior), RAG com pgvector, MCP servers, workflows multi-agente com verificação adversarial
 - **Infra de produto** — Kubernetes (GKE), Celery, Docker, Cloud SQL, Redis
-- **Design system** — contribuidor do `@clarke-energia/foton-v2` (npm)
+- **Design system** — componentes React reutilizáveis, publicados em pacote npm
 
 ---
 
@@ -42,9 +44,9 @@ Claude Code · pgvector · Ollama · MCP protocol · GKE · Cloud SQL
 
 ## Agora
 
-Trabalhando em infraestrutura de AI para amplificar times de engenharia — RAG semântico local, agentes paralelos e skills customizados que codificam o conhecimento operacional do time.
+Trabalhando em infraestrutura de IA para amplificar times de engenharia — RAG semântico local, agentes paralelos e skills customizados que codificam o conhecimento operacional do time.
 
-Preparando tech talk sobre **engenharia com IA aplicada** para o time de tecnologia da Clarke.
+Preparando tech talks sobre **engenharia com IA aplicada**.
 
 ---
 
@@ -63,4 +65,4 @@ Preparando tech talk sobre **engenharia com IA aplicada** para o time de tecnolo
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/marcus-roza/)
+[Portfólio](https://mvr-portfolio.netlify.app) · [LinkedIn](https://www.linkedin.com/in/marcus-roza/)
